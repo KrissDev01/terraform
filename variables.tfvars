@@ -1,4 +1,4 @@
-project = "gke-from-scratch-260720"
+project = "my-project-1-255016"
 region = "europe-north1-a"
 
 general_purpose_machine_type = "n1-standard-1"
